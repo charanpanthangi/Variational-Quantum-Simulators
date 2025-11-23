@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="white" stroke="black" />
+  <text x="20" y="20" font-size="14">Bloch path (mock data)</text>
+  <circle cx="200" cy="100" r="80" fill="none" stroke="lightgray" stroke-width="1" />
+  <polyline fill="none" stroke="teal" stroke-width="2" points="160,160 190,130 220,120 240,90 230,70 210,60 180,55" />
+  <text x="200" y="190" font-size="12" text-anchor="middle">Z axis points up out of the page</text>
+</svg>

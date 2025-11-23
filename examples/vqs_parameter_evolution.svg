@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="white" stroke="black" />
+  <text x="20" y="20" font-size="14">Parameter evolution (mock data)</text>
+  <polyline fill="none" stroke="blue" stroke-width="2" points="20,150 80,140 140,130 200,120 260,110 320,100 380,90" />
+  <polyline fill="none" stroke="orange" stroke-width="2" points="20,160 80,150 140,145 200,140 260,138 320,136 380,134" />
+  <polyline fill="none" stroke="green" stroke-width="2" points="20,140 80,135 140,130 200,126 260,123 320,120 380,118" />
+  <text x="20" y="185" font-size="12">Time</text>
+  <text x="5" y="40" font-size="12" transform="rotate(-90 10,40)">Angles (rad)</text>
+</svg>
